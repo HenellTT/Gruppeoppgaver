@@ -1,2 +1,2 @@
 # Systemering-og-modullering
-Øving 1 for systemering og modullering Gruppe 7B
+Repository for gruppeoppgaver utført av gruppe 7B - 1.semester 2024
